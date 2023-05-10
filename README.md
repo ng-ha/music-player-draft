@@ -26,4 +26,4 @@
 
 ### License :right_anger_bubble:
 
-[
+[MIT](https://choosealicense.com/licenses/mit/)
