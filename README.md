@@ -1,4 +1,4 @@
-# Music Player written in Vanilla JS :headphones:
+# Music Player (draft) written in Vanilla JS :headphones:
 
 ![music-player-draft](./github-images/music-player-draft.png)
 
